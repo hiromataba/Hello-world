@@ -3,6 +3,6 @@ body {
   margin: 0;
 }
 
-header h1 {
+.title {
   color: orangered;
 }
